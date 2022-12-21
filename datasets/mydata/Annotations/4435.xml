@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>      
+	      <folder>Annotations</folder>      
+	      <filename>4435.jpg</filename>      
+	      <path>E:\pro\yolov7\datasets\mydata\images\4435.jpg</path>      
+	      <source>            
+		            <database>Unknown</database>            
+	      </source>      
+	      <size>            
+		            <width>1440</width>            
+		            <height>1080</height>            
+		            <depth>3</depth>            
+	      </size>      
+	      <segmented>0</segmented>      
+	      <object>            
+		            <name>male</name>            
+		            <pose>Unspecified</pose>            
+		            <truncated>0</truncated>            
+		            <difficult>0</difficult>            
+		            <bndbox>                  
+			                  <xmin>802</xmin>                  
+			                  <ymin>382</ymin>                  
+			                  <xmax>919</xmax>                  
+			                  <ymax>459</ymax>                  
+		            </bndbox>            
+	      </object>      
+</annotation>

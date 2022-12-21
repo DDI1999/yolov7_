@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><annotation>        
+	        <folder>Annotations</folder>        
+	        <filename>7067.jpg</filename>        
+	        <path>E:\pro\yolov7\datasets\mydata\images\7067.jpg</path>        
+	        <source>                
+		                <database>Unknown</database>                
+	        </source>        
+	        <size>                
+		                <width>1440</width>                
+		                <height>1080</height>                
+		                <depth>3</depth>                
+	        </size>        
+	        <segmented>0</segmented>        
+	        <object>                
+		                <name>male</name>                
+		                <pose>Unspecified</pose>                
+		                <truncated>0</truncated>                
+		                <difficult>0</difficult>                
+		                <bndbox>                        
+			                        <xmin>797</xmin>                        
+			                        <ymin>603</ymin>                        
+			                        <xmax>880</xmax>                        
+			                        <ymax>656</ymax>                        
+		                </bndbox>                
+	        </object>        
+</annotation>
